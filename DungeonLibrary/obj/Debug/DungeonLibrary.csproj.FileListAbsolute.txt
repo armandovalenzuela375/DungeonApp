@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\FSD_20MAY2019\2_CSF2\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+C:\Users\Student\Desktop\FSD_20MAY2019\2_CSF2\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+C:\Users\Student\Desktop\FSD_20MAY2019\2_CSF2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FSD_20MAY2019\2_CSF2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+C:\Users\Student\Desktop\FSD_20MAY2019\2_CSF2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.pdb
+C:\Users\valen\Documents\Class Notes and Material\DungeonApplication-2\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+C:\Users\valen\Documents\Class Notes and Material\DungeonApplication-2\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+C:\Users\valen\Documents\Class Notes and Material\DungeonApplication-2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csprojAssemblyReference.cache
+C:\Users\valen\Documents\Class Notes and Material\DungeonApplication-2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\Class Notes and Material\DungeonApplication-2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+C:\Users\valen\Documents\Class Notes and Material\DungeonApplication-2\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.pdb
+C:\Users\valen\Desktop\FSD\Portfolio\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+C:\Users\valen\Desktop\FSD\Portfolio\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+C:\Users\valen\Desktop\FSD\Portfolio\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\FSD\Portfolio\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\FSD\Portfolio\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+C:\Users\valen\Desktop\FSD\Portfolio\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.pdb
